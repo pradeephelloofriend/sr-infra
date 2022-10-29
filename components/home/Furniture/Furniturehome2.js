@@ -95,7 +95,7 @@ const handleRoute=(id)=>{
                         
                         
                         >
-                       {/*funData2.map((i, index) =>
+                       {funData2.map((i, index) =>
                         
                             <SwiperSlide key={index} > 
                             <a 
@@ -130,7 +130,7 @@ const handleRoute=(id)=>{
                                     </div>
                                 </Card></a>
                             </SwiperSlide>
-                                )*/}
+                                )}
 
                        
                     </Swiper>
