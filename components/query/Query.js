@@ -253,6 +253,7 @@ const Query = () => {
                 <h5 className="mb-0">E-mail</h5>
                 <p className="mb-1 blackcoloro"><a href="mailto:raja_bokade@rediffmail.com" className="link-body">raja_bokade@rediffmail.com</a></p>
                 <p className="mb-1 blackcoloro"><a href="mailto:srsteelindustries@rediffmail.com" className="link-body">srsteelindustries@rediffmail.com</a></p>
+                <p className="mb-1 blackcoloro"><a href="mailto:mail@srindustries.net.in" className="link-body">mail@srindustries.net.in</a></p>
                
               </div>
             </div>

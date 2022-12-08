@@ -6,15 +6,15 @@ module.exports = {
         //domains: ['localhost'],
         deviceSizes: [320, 420, 768, 1024, 1200],
         loader: "default",
-        domains: ["res.cloudinary.com","speedtrack.co.in"],
+        domains: ["res.cloudinary.com","kamsoft.co.in"],
 
     },
     env:{
         //API_PATH:"http://localhost:1337",
-       // API_MAIL_PATH:"https://speedtrack.co.in/wp-snova/wp-json/wp/v2",
+       // API_MAIL_PATH:"https://kamsoft.co.in/wp-snova/wp-json/wp/v2",
 
-        API_PATH:"https://speedtrack.co.in/wp-sr/wp-json/wp/v2",
-        GQL_API_PATH:'https://speedtrack.co.in/wp-sr/graphql',
+        API_PATH:"https://kamsoft.co.in/wp-sr/wp-json/wp/v2",
+        GQL_API_PATH:'https://kamsoft.co.in/wp-sr/graphql',
         JWT_TOKEN:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsIm5hbWUiOiJhZG1pbiIsImlhdCI6MTY1NzU1ODkxNCwiZXhwIjoxODE1MjM4OTE0fQ.kg71BT59KvKXpk6w0i-rBdx_At1NQWthSgmyXieYjiA',
     },
     // Uncomment the line below to enable basePath, pages and

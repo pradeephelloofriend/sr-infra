@@ -48,8 +48,22 @@ const BusComp = ({ router }) => {
                          placeholder="blur"
                          blurDataURL={load}
                          priority={true}
+                         src={bu4} alt="" />
+                         <h2 className='text-center fs-18'>S.R. UDYOG LLP  </h2>
+                         <div className='bary'></div>
+                      </div>
+                </div>
+
+                <div className="col-md-3 mx-auto g-xxl-1 move-up-class">
+                <div className='bu-content-p p-2' 
+                    //  onClick={() => goToPage('/about-us/about-company/')}
+                     >
+                         <Image 
+                         placeholder="blur"
+                         blurDataURL={load}
+                         priority={true}
                          src={bu2} alt="" />
-                         <h2 className='text-center fs-18'>Infra-Project Solution  </h2>
+                         <h2 className='text-center fs-18'>Creative Infra-Project Solution    </h2>
                          <div className='bary'></div>
                       </div>
                 </div>
@@ -63,21 +77,7 @@ const BusComp = ({ router }) => {
                          blurDataURL={load}
                          priority={true}
                          src={bu3} alt="" />
-                         <h2 className='text-center fs-18'>Mauli Associates  </h2>
-                         <div className='bary'></div>
-                      </div>
-                </div>
-
-                <div className="col-md-3 mx-auto g-xxl-1 move-up-class">
-                <div className='bu-content-p p-2' 
-                    //  onClick={() => goToPage('/about-us/about-company/')}
-                     >
-                         <Image 
-                         placeholder="blur"
-                         blurDataURL={load}
-                         priority={true}
-                         src={bu4} alt="" />
-                         <h2 className='text-center fs-18'>S.R. UDYOG LLP  </h2>
+                         <h2 className='text-center fs-18'> Mauli Associates</h2>
                          <div className='bary'></div>
                       </div>
                 </div>

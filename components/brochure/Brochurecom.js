@@ -52,12 +52,12 @@ const Brochurecom = ({setAbtMenuRef ,aboutData}) => {
                                     blurDataURL={load}
                                     priority={true}
                                     src={bu1} alt="" />
-                    <h2>S.R Industries Profile Broucher </h2>
+                    <h2>S.R Industries Profile Brochure </h2>
                     <div className='barx'></div>
                    
                     <div className="d-flex r-nav-item pt-3">
 
-                    <a href="https://speedtrack.co.in/upload/sr/SR_profile_2021-22.pdf" className="lh-base nav-btn  text-white arrow-animation" size="large">Download Broucher</a>
+                    <a href="https://speedtrack.co.in/upload/sr/SR_profile_2021-22.pdf" className="lh-base nav-btn  text-white arrow-animation" size="large">Download Brochure</a>
                    </div>
                 </div>
             </div>
@@ -69,12 +69,12 @@ const Brochurecom = ({setAbtMenuRef ,aboutData}) => {
                                     blurDataURL={load}
                                     priority={true}
                                     src={bu2} alt="" />
-                    <h2>Funiture Broucher  </h2>
+                    <h2>Furniture Brochure  </h2>
                     <div className='barx'></div>
                    
                     <div className="d-flex r-nav-item pt-3">
 
-                    <a href="https://speedtrack.co.in/upload/sr/SRFurniture.pdf" className="lh-base nav-btn  text-white arrow-animation" size="large">Download Broucher</a>
+                    <a href="https://speedtrack.co.in/upload/sr/SRFurniture.pdf" className="lh-base nav-btn  text-white arrow-animation" size="large">Download Brochure</a>
                    </div>
                 </div>
             </div>
@@ -86,12 +86,12 @@ const Brochurecom = ({setAbtMenuRef ,aboutData}) => {
                                     blurDataURL={load}
                                     priority={true}
                                     src={bu3} alt="" />
-                    <h2>PEB & Pipeline Broucher  </h2>
+                    <h2>PEB & Pipeline Brochure  </h2>
                     <div className='barx'></div>
                    
                     <div className="d-flex r-nav-item pt-3">
 
-                    <a href="https://speedtrack.co.in/upload/sr/S.R.PEBSawantwadi.pdf" className="lh-base nav-btn  text-white arrow-animation" size="large">Download Broucher</a>
+                    <a href="https://speedtrack.co.in/upload/sr/S.R.PEBSawantwadi.pdf" className="lh-base nav-btn  text-white arrow-animation" size="large">Download Brochure</a>
                    </div>
                 </div>
             </div>
